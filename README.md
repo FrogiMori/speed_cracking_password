@@ -214,27 +214,6 @@ password_sec/
 
 ---
 
-## 📤 How to Push to GitHub
-
-To publish this project to your GitHub account:
-
-```bash
-# 1. Initialize git
-git init
-
-# 2. Add files and make initial commit
-git add .
-git commit -m "Initial commit: Password Strength Meter CLI (0-100%)"
-
-# 3. Create a new repository on GitHub (e.g. named 'password-strength-cli')
-# 4. Link your remote repository and push (replace with your repo URL):
-git branch -M main
-git remote add origin https://github.com/<your-username>/password-strength-cli.git
-git push -u origin main
-```
-
----
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
