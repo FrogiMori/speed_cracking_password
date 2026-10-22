@@ -1,0 +1,2 @@
+# Optional enhanced terminal UI formatting (fallback to ANSI if not installed)
+rich>=13.0.0
